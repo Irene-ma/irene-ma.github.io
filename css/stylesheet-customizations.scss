@@ -12,11 +12,14 @@ body {
 
 // Customize the menubar color
 .ui.menu {
-   background: #d9f0f6;
+   background: #86e5f2;
 }
 
 // Customize the home page icon colors
 .icon-color {
-   color: #f286bd;
+   color: #86e5f2;
 }
 
+.body, html {
+     height: none; 
+}
