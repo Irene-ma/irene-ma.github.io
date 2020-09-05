@@ -23,3 +23,9 @@ body {
 .icon-color {
    color: #f26ebf;
 }
+
+.ui.red.label, .ui.red.labels .label {
+    background-color: #f1a1be!important;
+    border-color: #f091b3!important;
+    color: #FFF!important;
+}
