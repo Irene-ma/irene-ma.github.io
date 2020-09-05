@@ -99,6 +99,19 @@
         "Implement user interface changes",
         "contribute to team documentation"
       ]
+    },
+    {
+      "company": "Hawaiian Airlines",
+      "position": "Software QA Engineer Intern",
+      "website": "",
+      "startDate": "2019-06-22",
+      "endDate": "2019-08-14",
+      "summary": "Designed and devloped UI automation test scripts",
+      "highlights": [
+        "Utilized Selenium technology to automate test cases",
+        "Held meetings to go over test plans",
+        "contribute to Hawaiian Airlines UI framework"
+      ]
     }
   ],
   "volunteer": [
