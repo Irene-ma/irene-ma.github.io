@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/overEasi.png
-title: Hawaiian Airlines QA Engineer
+title: Covid Chatbot
 permalink: projects/covid-chatbot
 date: 2020-12-18
 labels:
