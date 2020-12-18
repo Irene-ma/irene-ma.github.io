@@ -51,7 +51,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Javascript",
+        "Semantic UI"
       ]
     },
     {
@@ -141,7 +143,13 @@
       "title": "First place",
       "date": "2019",
       "awarder": "Hawaii Annual Code Challenge",
-      "summary": "My team won first place in 2019.  See my portfolio site for more details."
+      "summary": "My team won first place in HACC 2019.  See my portfolio site for more details."
+    },
+     {
+      "title": "First place",
+      "date": "2020",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "My team won first place in HACC 2020.  See my portfolio site for more details."
     }
   ],
   "references": [
