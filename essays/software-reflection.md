@@ -20,5 +20,6 @@ One of the most valuable lessons that I got out of this course was being able to
 
 ## Following The Rules 
 
+<img class="ui medium left floated rounded image" src="../images/coding.png">
 Who knew that coding had their equivalent to grammar rules and styles just like with any language? Coding standards are basically a set of guidelines and rules that we developers must follow when we write code. They make sure that our code can be understood throughout multiple people and that it follows a common theme. Just like with English, we make sure to include our periods, our commas, and to include verbs when we talk about doing an action. This is equivalent to making sure that our code follows the exact spacing/tab, using certain words in the code, and making sure we use all the variables that we declared. I never noticed how important coding standards were until I took this course. Practicing good coding standards also made me more aware of my grammar in English. I now pay more attention to the grammar mistakes I make and make sure that my sentences are clear enough that people can understand them (It baffles me why UH Manoa won’t consider programming languages as a second language so we don’t have to suffer taking a second language as a graduation requirement!).
 
