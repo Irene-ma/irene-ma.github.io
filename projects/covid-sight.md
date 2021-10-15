@@ -8,7 +8,7 @@ date: 2021-10-14
 labels:
   - Javascript
   - MongoDB
-summary: 314 and HACC 2020 Covid Chatbot Project
+summary: Meteor Web Application to track Covid Health
 ---
 
 <img class="ui medium right floated rounded image" src="/images/chatbot.png">
