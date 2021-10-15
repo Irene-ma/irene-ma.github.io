@@ -13,7 +13,7 @@ summary: Meteor Web Application to track Covid Health
 
 ## Links 
 
-Github Page for our project is located [here](https://covid-sight.github.io/)
+Github Page for our project is located [here](https://covid-sight.github.io/) <br />
 Our deployed application is located [here](https://covid-sight.meteorapp.com/#/)
 
 ## Description
@@ -23,7 +23,9 @@ For ICS491, our team deicded to create a covid health tracking web application t
 
 ## Learning Experience
 
-<img class="ui medium left floated rounded image" src="/images/firstplace.png">
-Participating in this year’s HACC was very stressful but at the same time it was rewarding and interesting to see what projects and ideas the other team had in mind and how they brought that to life. It proved difficult to my team because we were on a time crunch and only had a limited number of weeks to get our project going. HACC’s deadline was much sooner than the deadline for the 314 final project so our team had to meet up twice as much to get everything done. At first we were skeptical about finishing the project on time because there were a lot of features that we had to implement and polish. Incorporating Google's API into our project was the hardest part because we had to fully understand how the API worked and somehow intertwine the code to fit with our code. With a little bit of help from Branden and Dr. Johnson, we were able to successfully get our code running and ended up placing first place for HACC! I am forever grateful for the hard work that our team put into and the countless hours that we spent on it. I wouldn’t have asked for a better team!
+<img class="ui medium left floated rounded image" src="/images/meteorcloud.png">
+It has been awhile since I last worked with Meteor so it did take some time for me to review the framework and relearn everything, but once I did, I was able to learn new things that I haven't learned back in ICS 314. Unlike back in 314, we had to host our project using another service called Galaxy. I was in charge of deploying our application so that the public could access it. This was a learning experience for me because back in my other team projects I wasn't charge of deploying the application so I didn't get a chance to get familiar with it. Reading the documentation and following the guide on Galaxy helped me in deploying the project. I did have some trouble at first because the documentation seemed too specific and didn't help with deploying a general application, so I had to find other sources to help me deploy the project. I did find it weird how the documentation differed than what was offered in the starting guide on the Galaxy website but I ultimately followed the commands found on the website guide and successfully deployed the application. 
 
-You can view our chatbot journey [here](https://devpost.com/software/overeasi)
+## Personal Contribution
+
+
