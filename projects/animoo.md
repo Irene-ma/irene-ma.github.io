@@ -13,8 +13,8 @@ summary: Meteor Web Application to view movies and shows and connect with people
 
 ## Links 
 
-Github Page for our project is located [here](https://covid-sight.github.io/) <br />
-Our deployed application is located [here](https://covid-sight.meteorapp.com/#/)
+Github Page for our project is located [here](https://github.com/Big-Brain-Coders/AniMoo) <br />
+Our deployed application is located [here](https://animoooo.meteorapp.com/)
 
 ## Description
 <img class="ui medium right floated rounded image" src="/images/covidsightHome.png">
