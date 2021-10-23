@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/covidsight.png
-title: Covid Sight
+title: AniMoo
 permalink: projects/animoo
 date: 2021-10-22
 labels:
