@@ -102,6 +102,19 @@
         "contribute to team documentation"
       ]
     },
+     {
+      "company": "Amazon",
+      "position": "Software QA Engineer Intern",
+      "website": "",
+      "startDate": "2020-04-24",
+      "endDate": "2020-08-13",
+      "summary": "Designed and devloped test cases for Amazon's Middle Mile Feature",
+      "highlights": [
+        "Created, executed, and maintained test plans",
+        "Maintined Amazon's automation testing pipeline",
+        "Further refined the automation test suite code base."
+      ]
+    }
     {
       "company": "Hawaiian Airlines",
       "position": "Software QA Engineer Intern",
@@ -135,7 +148,7 @@
   "awards": [
     {
       "title": "Manoa Dean's List",
-      "date": "Spring 2016, 2017, Fall 2018",
+      "date": "Spring 2016, 2017, Fall 2018, 2019",
       "awarder": "University of Hawaii",
       "summary": "Awarded by earning a semester GPA of 3.5 or higher based on 12 credits or more taken for a grade."
     },
