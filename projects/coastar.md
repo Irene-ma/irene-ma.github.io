@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/anisquad.png
+image: images/coastarbg.png
 title: Coastar
 permalink: projects/coastar
 date: 2021-11-30
@@ -13,11 +13,11 @@ summary: Meteor Web Application to report marine sealife sightings and injuries 
 
 ## Links 
 
-Github Page for our project is located [here](https://github.com/Big-Brain-Coders/AniMoo) <br />
-Our deployed application is located [here](https://animoooo.meteorapp.com/)
+Github Page for our project is located [here](https://github.com/HACC2021/Big-Brain-Coders) <br />
+Our deployed application is located [here](https://coastar491.meteorapp.com/#/)
 
 ## Description
-<img class="ui medium right floated rounded image" src="/images/animoosignin.png">
+<img class="ui medium right floated rounded image" src="/images/reportseal.png">
 For the Meteor hackathon, our team decided to tackle on the problem of depression and social anxiety among students during the Covid-19 pandemic. Because of the pandemic, school went online and started teaching classes virtually instead of in person. Many restaurants and social venues were closed as well as shops and public places. Social gatherings were banned, and at one point, there was a curfew set and people were forced to stay in home for the entire day. This has led to a spike in depression because humans strive on social interaction. Without it, they would feel isolated from the world. To tackle this, we created an app that could connect with people who have similiar hobbies. 
 <img class="ui medium left floated rounded image" src="/images/animooPro.png">
 During the pandemic, watching shows has increased dramatically. We wanted to take advantage of that and create a social media app that revolved around watching shows and movies. People can connect with their friends and keep track of eachother's favorite shows. This makes is easier to discuess the latest show that they watched and keep track of what everyone else is watching. 
@@ -29,5 +29,5 @@ This was my first Meteor hackathon and it was definitely different than the Hawa
 
 
 ## Personal Contribution
-<img class="ui medium left floated rounded image" src="/images/animooHome.png">
+<img class="ui medium left floated rounded image" src="/images/markerinfo.png">
 On this project, I focused mainly on the UI of the application. I created the designing and the background of the sign in page. The thing that took the most time was implementing an image carousel on the homepage of AniMoo. I wanted a way for users to click through a series of images like an image carousel but found out that Semantic ui didn't have that feature. So I had to research how to create one from scratch and found an example of it. It took a lot of time translating it to fit the project and for it to work but I finally got it to correctly slide through the images. Along with the carousel, I created banner images to show the features of the application and make it look like an actual website. I also created cards of animes that our team liked as a way to make the site more friendly. Learn more about our project [here](https://github.com/Big-Brain-Coders/AniMoo/blob/master/README.md)
