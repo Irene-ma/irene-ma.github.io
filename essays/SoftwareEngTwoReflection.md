@@ -24,5 +24,5 @@ For our mockup, we hard coded a lot of what they wanted the website to look like
 
 ## Challenges We Faced
 There were a lot of challenges that me and the team had to overcome while completing this project. The biggest challenge we were faced with was creating the collection for each data category that was necessary for the site to work. Many pages of the website required a lot of data to be cross referenced and matched. For example, creating a volunteer profile would mean pulling up data from their user data as well as the events that the specific user has participated in and how many hours this user has participated. This required many collections to be created so that they could be easily matched with other collections and also be easy to search for specific data.
-<img class="ui medium right floated rounded image" src="../images/mindmap.png">
+<img class="ui big right floated rounded image" src="../images/mindmap.png">
  Our team came up with a rough mock up on the sort of collections we needed to create and how they related to one another. This map was in the early stages of our planning but it definitely showed the amount of thought we put into making the website as efficient as possible. 
